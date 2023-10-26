@@ -1,0 +1,229 @@
+.main-nav{
+    text-align: center;
+   padding-top: none;
+   padding-right: 300px; 
+    background-color: rgb(255, 255, 255);
+   nav-up: auto;
+   box-shadow: 0px 5px 10px 0px #aaa;
+   position: fixed;
+   opacity: 0.85;
+
+}
+
+
+
+
+
+
+
+.main-nav_item{
+    display: inline-block;
+    
+}
+.main-nav_item a{
+    padding-left: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(105, 102, 102);
+    font-family: "Poppins", sans-serif;
+    
+    
+}
+.main-nav_item a:hover{
+    color: rgb(236, 129, 6);
+    
+}
+
+
+.img-info{
+    width: 310px; height:330px
+    
+}
+
+.img-logo{
+    width: 150px;
+    height: 50px;
+    padding-top: 10px;
+    padding-right: 950px;
+}
+
+.img-luis{
+    width: 150px;
+    height: 130px;
+    padding-top: 60px;
+    padding-right: 250px;
+    padding-left: 100px;
+}
+
+
+.img-franja{
+    width: 95px;
+    height: 20px;
+    padding-top: px;
+    padding-right:px;
+}
+
+h1{ 
+    font-size: 40px;
+    color: rgb(81, 81, 83);
+    font-family:cursive;
+
+}
+
+    
+hr{
+    border-width:4px;
+    border-style:dotted;
+    border-color:blue;
+    width:50%;
+}
+
+h2{ 
+    font-size: 25px;
+    color: rgb(81, 81, 83);
+    font-family: cursive;
+    
+
+}
+
+h3{ 
+    font-size: 44px;
+    color: rgb(219, 68, 9);
+    font-family: cursive;
+    
+
+}
+.tabla 
+{
+    
+    border:1px solid rgb(212, 211, 211);
+    width: 60%;
+    /*margin-right: 200px;*/
+    /*margin-bottom: 20px;*/
+    background: #f8f7f7;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    
+}
+
+aside { float:left;
+    width:200px;
+    padding-top: 0px;
+    padding-bottom: 0px; 
+    height: 20px;
+    padding-right: 15px;
+    padding-left: 15px;}
+    
+
+
+    
+
+        #estadisticas{
+            padding-top: 80px;
+            padding-bottom: 0px; 
+            
+            width:200px;
+            height:500px;
+            float: right;
+            
+            padding-right: 2%;
+            padding-left: 5px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        p{ 
+            font-size: 20px;
+            color: rgb(81, 81, 83);
+            font-family:Arial, Helvetica, sans-serif;
+            
+        
+        }
+
+        
+        .img-escudo{
+            width: 100px;
+            height: 150px;
+            padding-top: 40px;
+            padding-right: 50px;
+            padding-left: 800px;
+        }
+        
+        table tr {
+            text-align: center;
+          }
+          .video-luis{
+            width: 100px;
+            height: 150px;
+            padding-top: 40px;
+            padding-right: 50px;
+            padding-left: 1350px;
+        }
+        #testimonials {
+            
+            background: rgba(243, 243, 243);
+          }
+          
+          .testimonial-title {
+            text-align: center;
+            font-size: 2.8rem;
+            font-weight: 400;
+            color: #555;
+          }
+          
+          .testimonial-container {
+            display: flex;
+            
+            font-size: 1.4rem;
+            padding: 1rem;
+          }
+          
+          .testimonial-box .checked {
+            color: #ff9529;
+          }
+          
+          .testimonial-box .testimonial-text {
+            margin: 1rem 0;
+            color: rgb(66,144,203);
+          }
+          
+          .testimonial-box {
+            text-align: center;
+            padding: 1rem;
+          }
+          
+          .customer-photo img {
+            
+            display: block;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            object-position: center;
+            border-radius: 100%;
+            margin: auto;
+          }
+          #testimonials1 {
+            
+            background: rgb(216, 216, 216);
+          }
+
+          #testimonials2 {
+           
+            background: rgb(196, 196, 196);
+          }
+          footer {
+            background-color: #ebe7e7;
+            padding:5px;
+            text-align: center;
+        }
+       
+          
+
+                    
+          
+          
+        
+
+        
